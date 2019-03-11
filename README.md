@@ -1,5 +1,6 @@
 # DynamicWriter
 Dialog writer. (Pokemon style) Component to be used for a text RPG. 
+Test a preview of the project on github pages: https://noxilex.github.io/DynamicWriter/
 
 ## Install
 Clone this repository or download a .zip of this project.
